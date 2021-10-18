@@ -1,6 +1,6 @@
 # Mod-21
 
-An ICO for KaiseCoin.
+An ICO for KaseiCoin.
 
 ![alt text](./Starter_Code/token.PNG)
 ![alt text](./Starter_Code/crowdsale.PNG)
